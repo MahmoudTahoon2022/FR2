@@ -1,8 +1,8 @@
 {
   "devices": {
     "FR2": {
-      "version": "1.9.1",
-      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/FR2/main/FR2.1.9.1.bin",
+      "version": "1.9.2",
+      "bin": "https://raw.githubusercontent.com/MahmoudTahoon2022/FR2/main/FR2.1.9.2.bin",
       "force": false
     }
   }
